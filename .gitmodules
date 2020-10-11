@@ -4,6 +4,6 @@
 	branch = master
 [submodule "owl_playgroung_ts"]
 	path = owl_playgroung_ts
-	url = https://github.com/SimonGenin/owl_playground_ts
+	url = https://github.com/simonGenin/owl_playground_ts
 	branch = main
 
