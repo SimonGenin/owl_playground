@@ -1,0 +1,6 @@
+[submodule "owl"]
+	path = owl
+	url = ./owl
+[submodule "owl_ts"]
+	path = owl_ts
+	url = ./owl_ts
