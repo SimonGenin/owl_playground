@@ -1,6 +1,9 @@
 [submodule "owl"]
 	path = owl
 	url = https://github.com/odoo/owl
+	branch = master
 [submodule "owl_playgroung_ts"]
 	path = owl_playgroung_ts
 	url = https://github.com/SimonGenin/owl_playground_ts
+	branch = main
+
