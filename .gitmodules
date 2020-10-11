@@ -1,6 +1,6 @@
 [submodule "owl"]
 	path = owl
-	url = ./owl
-[submodule "owl_ts"]
-	path = owl_ts
-	url = ./owl_ts
+	url = https://github.com/odoo/owl
+[submodule "owl_playgroung_ts"]
+	path = owl_playgroung_ts
+	url = https://github.com/SimonGenin/owl_playground_ts
